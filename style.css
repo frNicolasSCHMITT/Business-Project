@@ -1,0 +1,9 @@
+.rondlogo{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background: black;
+    color: white;
+    display: flex;
+    align-items: center;
+}
