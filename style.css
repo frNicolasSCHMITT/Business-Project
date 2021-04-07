@@ -1,9 +1,26 @@
 .rondlogo{
-    width: 80px;
-    height: 80px;
-    border-radius: 40px;
-    background: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background: steelblue;
     color: white;
     display: flex;
     align-items: center;
+    justify-content: center;
+}
+.décoimage{
+    width: 100%;
+    height: auto;
+}
+.centretexte{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.icones{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
 }
